@@ -6,7 +6,7 @@ import { SiTailwindcss, SiNextdotjs, SiC, SiDjango, SiSpringboot, SiSqlite } fro
 // about data
 const about = {
     title: "About Me",
-    description: "I am a comp student at the University of Leeds",
+    description: "I am a Computer Science student at the University of Leeds with a passion for technology and software development.",
     info: [
         {
             fieldName: "Name",
@@ -38,19 +38,19 @@ const experience = {
             position: 'Web Developer',
             company: 'Dalston Auto Centre Ltd',
             date: '2024 - Present',
-            description: 'This and that',
+            description: '',
         },
         {
             position: 'Operations Assistant',
             company: 'Dalston Auto Centre Ltd',
             date: '2021 - 2023',
-            description: 'Also this and that',
+            description: '',
         },
         {
             position: 'Software Engineering Virtual Internship',
             company: 'Goldman Sachs',
             date: '2022 - 2022',
-            description: 'Did this program',
+            description: '',
         },
     ],
 };
@@ -59,7 +59,7 @@ const experience = {
 const education = { 
     icon: '/assets/resume/cap.svg',
     title: 'My Education',
-    description: 'I am a comp student at the University of Leeds',
+    description: 'I am a Computer Science student at the University of Leeds with a passion for technology and software development.',
 
     items: [
         {
@@ -83,7 +83,7 @@ const education = {
 // skills data
 const skills = { 
     title: 'My Skills',
-    description: 'I am a comp student at the University of Leeds',
+    description: 'I have experience in a range of programming languages and frameworks, including Python, Java, Django, and React. I am also familiar with HTML, CSS, and JavaScript. I am always eager to learn new technologies and improve my skills.',
 
     skillList: [
         {
