@@ -1,7 +1,7 @@
 import { Button } from "@components/ui/button";
-import Social from "@components/social";
-import Photo from "@components/photo";
-import Stats from "@components/stats";
+import Social from "@components/Social";
+import Photo from "@components/Photo";
+import Stats from "@components/Stats";
 
 const Home = () => {
   return (
